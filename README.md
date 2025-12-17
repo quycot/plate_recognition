@@ -21,7 +21,7 @@
 
 | 👤 Name           | 🆔 Student ID | 🐙 GitHub Username | 🛠️ Contribution       |
 |------------------|--------------|-----------------|---------------------|
-| Nguyễn Ngọc Quý   | 21002169     | quycot          | [Your Contribution 1] |
-| Nguyễn Duy Long   | 21002155     | ngduylonggg     | [Your Contribution 2] |
-| Vũ Thu Trang      | 21002178     | vthtrng         | [Your Contribution 3] |
+| Nguyễn Ngọc Quý   | 21002169     | quycot          | Mô hình YOLO, dataset |
+| Nguyễn Duy Long   | 21002155     | ngduylonggg     | Mô hình WPOD, EasyOCR |
+| Vũ Thu Trang      | 21002178     | vthtrng         | Định vị, nhận dạng kí tự |
 
